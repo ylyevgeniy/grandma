@@ -1,1 +1,1 @@
-*á[<?php exit; ?>a:1:{s:7:"content";i:0;}
+­á[<?php exit; ?>a:1:{s:7:"content";i:0;}

@@ -1,1 +1,1 @@
-ър[<?php exit; ?>a:1:{s:7:"content";a:3:{s:13:"_thumbnail_id";a:1:{i:0;s:2:"23";}s:17:"_wp_page_template";a:1:{i:0;s:21:"template-homepage.php";}s:25:"_customize_changeset_uuid";a:1:{i:0;s:36:"b38d59b8-b858-4ba4-b26e-b3aa5d582f94";}}}
+­с[<?php exit; ?>a:1:{s:7:"content";a:3:{s:13:"_thumbnail_id";a:1:{i:0;s:2:"23";}s:17:"_wp_page_template";a:1:{i:0;s:21:"template-homepage.php";}s:25:"_customize_changeset_uuid";a:1:{i:0;s:36:"b38d59b8-b858-4ba4-b26e-b3aa5d582f94";}}}
